@@ -1,0 +1,10 @@
+var n1=5;
+var n2=10;
+console.log(n1);
+console.log(n2);
+console.log("adding two random numbers");
+console.log(n1+n2);
+var f_name= "Vaanya";
+var l_name= "Garg";
+console.log("adding my name");
+console.log(f_name+" "+ l_name);
